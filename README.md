@@ -1,4 +1,6 @@
 # All-about-clocks-HTML-project-
+https://schneider1829.github.io/All-about-clocks-HTML-project-/
+
 Made only with HTML. Will soon be updated with CSS.
 
 (English) This is a beginner's project that currently contains only HTML code. It will soon be updated with CSS to make the page significantly more visually appealing. The lack of images is intentional and due to copyright considerations — searching for specific copyright-free images is often not worth the effort, and purchasing images does not make sense for a project of this scale at this stage. The page nevertheless uses proper semantic HTML elements to support SEO, follows a correct heading hierarchy from h1 to h6, and, to the best of my knowledge, does not violate any HTML rules or best practices.
